@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../src/components/GradientASCII.css"],
-  "sourcesContent": [".gradient-ascii-container {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n}\n\n.gradient-ascii-canvas {\n  position: absolute;\n  inset: 0;\n  display: block;\n  width: 100%;\n  height: 100%;\n}\n\n"],
-  "mappings": "AAAA,CAAC,yBACC,SAAU,SACV,MAAO,KACP,OAAQ,KACR,SAAU,MACZ,CAEA,CAAC,sBACC,SAAU,SARZ,MASS,EACP,QAAS,MACT,MAAO,KACP,OAAQ,IACV",
-  "names": []
-}
